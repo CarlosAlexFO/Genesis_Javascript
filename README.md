@@ -1,5 +1,8 @@
 # Projeto do nostálgico jogo  de memória Genesis 
 
-## Jogo criado em Javascript, com html e css 
+## Jogo criado em Javascript, com principal conceito CSS Grid, manipulção de Array e Arrow Functions.
 
-## Treianmento realizado pela instrutora Gabriela Pinheiro na plataforma Digital Innovation One.
+## Treinamento realizado pela instrutora Gabriela Pinheiro,
+## disponibilizado pela plataforma Digital Innovation One.
+
+###
