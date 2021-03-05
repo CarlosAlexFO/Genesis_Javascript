@@ -6,6 +6,6 @@
 ## Treinamento realizado pela instrutora Gabriela Pinheiro,
 ## disponibilizado pela plataforma Digital Innovation One.
 
-![Login](https://github.com/CarlosAlexFO/CadastroSerieDotNet/blob/main/DIO.Series/appSeries.gif)
+![Login](https://github.com/CarlosAlexFO/Genesis_Javascript/blob/master/Genesis.gif)
 
 
